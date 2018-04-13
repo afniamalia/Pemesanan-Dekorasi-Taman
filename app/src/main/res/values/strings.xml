@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">StudyKasus_Praktikum8</string>
+<string-array name="paket">
+    <item>Paket satu</item>
+    <item>Paket dua</item>
+    <item>Paket tiga</item>
+    <item>Paket 4</item>
+    <item>Paket 5</item>
+</string-array>
+</resources>
